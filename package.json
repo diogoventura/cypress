@@ -1,0 +1,21 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^9.6.0",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^6.6.6",
+    "gerador-validador-cpf": "^5.0.2"
+  },
+  "dependencies": {
+    "cpf-utils": "^1.1.1",
+    "valida-gera-cpf": "^2.0.0"
+  }
+}

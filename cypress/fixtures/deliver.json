@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name":"Diogo Ventura",
+        "cpf":"02413301496",
+        "email":"d@gmail.com",
+        "whatsapp":"81993044063",
+        "adress":{
+            "postalcode":"50721040",
+            "adress":"Rua Desembargador Virgílio de Sá Pereira",
+            "addressNumber":"544",
+            "addressDetails":"apt. 104",
+            "district":"Cordeiro",
+            "cityUf":"Recife/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "Untitled Diagram.jpg" 
+    },
+    "cpf_inv": {
+        "name": "Diogo",
+        "cpf": "024133p1496",
+        "email": "d@gmail.com",
+        "whatsapp": "81993040063",
+        "adress":{
+            "postalcode": "50721040",
+            "adress": "Rua Desembargador Virgílio de Sá Pereira",
+            "addressNumber": "544",
+            "addressDetails": "apt. 104",
+            "district": "Cordeiro",
+            "cityUf": "Recife/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "Untitled Diagram.jpg" 
+    },
+    "email_inv": {
+        "name":"Diogo Ventura",
+        "cpf":"02413301496",
+        "email":"gmail.com",
+        "whatsapp":"81993044063",
+        "adress":{
+            "postalcode":"50721040",
+            "adress":"Rua Desembargador Virgílio de Sá Pereira",
+            "addressNumber":"544",
+            "addressDetails":"apt. 104",
+            "district":"Cordeiro",
+            "cityUf":"Recife/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "Untitled Diagram.jpg" 
+    }
+}
